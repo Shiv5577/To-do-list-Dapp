@@ -27,7 +27,7 @@ To empower users with full control and ownership over their personal task manage
 
 0x2351f821959e7FD4Ea73B7600f2e1b47bd8081A8
 
-<img width="1710" alt="Screenshot 2025-06-20 at 3 53 07 PM" src="https://github.com/user-attachments/assets/9cf1777e-55d6-4868-b7ba-3ede9cef5c94" />
 
+<img width="1473" alt="Screenshot 2025-06-20 at 3 54 34 PM" src="https://github.com/user-attachments/assets/bae0d2df-074d-458b-96d4-4d0cb339fccc" />
 
 
